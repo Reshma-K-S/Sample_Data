@@ -2,3 +2,4 @@ Introduction to python.
 Python is "Easy to Learn"...
 Open source
 High level language
+Portable
