@@ -1,1 +1,2 @@
-introduction to python
+Introduction to python.
+Python is "Easy to Learn"...
